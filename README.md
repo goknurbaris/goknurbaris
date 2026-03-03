@@ -29,12 +29,13 @@ I am a passionate **Full-Stack Developer** based in Nevşehir, Turkey. I focus o
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goknurbaris&theme=dark" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=goknurbaris&theme=2077" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goknurbaris&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
