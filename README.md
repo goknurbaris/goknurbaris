@@ -5,7 +5,7 @@ I am a passionate **Full-Stack Developer** based in Nevşehir, Turkey. I focus o
 
 - 🏗️ Currently focusing on **Laravel-based** web projects.
 - 🌱 Deepening my expertise in **PHP**, **C#**, and **Java** for robust backend development.
-- 🔭 Constantly building projects to expand my portfolio.
+- 🔭 Constantly building projects to expand my portfolio on GitHub (goknurbaris).
 
 ---
 
@@ -31,11 +31,11 @@ I am a passionate **Full-Stack Developer** based in Nevşehir, Turkey. I focus o
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=goknurbaris&theme=2077" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goknurbaris&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goknurbaris&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goknurbaris&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
