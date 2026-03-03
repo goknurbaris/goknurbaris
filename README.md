@@ -32,11 +32,6 @@ I am a passionate **Full-Stack Developer** based in Nevşehir, Turkey. I focus o
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-
-
----
 
 ### 📫 Let's Connect
 - **GitHub:** [goknurbaris](https://github.com/goknurbaris)
