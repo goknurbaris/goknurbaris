@@ -1,4 +1,4 @@
-# Hi there! I'm Barış 👋
+# Hi there! I'm Göknur 👋
 
 ### 🚀 About Me
 I am a passionate **Full-Stack Developer** based in Nevşehir, Turkey. I focus on building scalable web applications and exploring the open-source ecosystem. I believe in writing clean, maintainable code that solves real-world problems.
